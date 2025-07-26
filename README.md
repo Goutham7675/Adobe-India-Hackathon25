@@ -358,7 +358,7 @@ This solution emphasizes:
 ## Contributors
 Developed by Team Shouryangulu
 1. S. S. Goutham Reddy (Team Lead)
-2. Y. Karthik Redy
+2. Y. Karthik Reddy
 3. A. Sai Rohith
 ## License
 
