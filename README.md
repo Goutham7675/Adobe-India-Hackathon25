@@ -355,7 +355,11 @@ This solution emphasizes:
 - **Docker Support**: Production-ready containerization
 - **Documentation**: Detailed README files for each challenge
 - **Performance Monitoring**: Built-in timing and resource usage tracking
-
+## Contributors
+Developed by Team Shouryangulu
+1. S. S. Goutham Reddy (Team Lead)
+2. Y. Karthik Redy
+3. A. Sai Rohith
 ## License
 
 This project is developed for the Adobe India Hackathon 2025 competition.
