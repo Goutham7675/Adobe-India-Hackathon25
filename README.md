@@ -361,5 +361,3 @@ This solution emphasizes:
 This project is developed for the Adobe India Hackathon 2025 competition.
 
 ---
-
-**Important**: This is a competitive hackathon submission. All solutions must run offline and meet the specified performance constraints.
